@@ -15,11 +15,10 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
 <a href="https://github.com/aniii0502">
-  <img align="right" width="400" src="https://github.com/user-attachments/assets/ee18e3e9-33dd-41af-87c8-9991fdaea3a6" style="border-radius: 50%; margin-left: 20px; margin-bottom: px;" alt="Aniket's Avatar" />
+  <img align="right" width="400" src="https://github.com/user-attachments/assets/ee18e3e9-33dd-41af-87c8-9991fdaea3a6" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;" alt="Aniket's Avatar" />
 </a>
 
 I am a **Software Engineer** who bridges the gap between reliable infrastructure and modern Artificial Intelligence. My background is rooted in building robust, scalable backend systems using **C#** and the **.NET Ecosystem**, but my passion lies in deploying intelligence.
@@ -124,7 +123,6 @@ I specialize in **End-to-End AI Engineering**. I don't just train models in note
   </table>
 </div>
 
-
 ---
 
 ## 📊 Analytics & Impact
@@ -136,4 +134,4 @@ I specialize in **End-to-End AI Engineering**. I don't just train models in note
   <br/>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=aniii0502&theme=blue_navy&hide_border=false" alt="streak stats" />
-</div>v
+</div>
