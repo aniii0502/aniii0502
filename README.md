@@ -128,10 +128,7 @@ I specialize in **End-to-End AI Engineering**. I don't just train models in note
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aniii0502?theme=radical&font=Inter" alt="LeetCode Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniii0502&layout=donut&theme=radical&hide_border=false&langs_count=5&hide=html,css,smalltalk,scss" alt="Top Languages" height="170" />
-  
-  <br/>
-  
+  <img src="https://leetcard.jacoblin.cool/aniii0502?theme=radical&font=Inter" alt="LeetCode Stats" height="195" />
+ 
   <img src="https://nirzak-streak-stats.vercel.app/?user=aniii0502&theme=blue_navy&hide_border=false" alt="streak stats" />
 </div>
